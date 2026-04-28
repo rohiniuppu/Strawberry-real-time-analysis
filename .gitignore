@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.joblib
+confusion_matrix.png
+feature_importance.png
+strawberry_dataset.csv
+serveo_output.txt
+pinggy_url.txt
+output.txt
+deploy.txt
