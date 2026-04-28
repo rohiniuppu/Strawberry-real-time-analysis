@@ -1,3 +1,7 @@
+## 🚀 Live App
+
+[Click here to view the app](https://strawberry-real-time-analysis-jx43pbgancbdf7cgugrgt2.streamlit.app/)
+
 # 🍓 Strawberry AI: Real-Time Quality Analysis Dashboard
 
 An AI-powered system for the **non-destructive analysis of strawberries** using hyperspectral imaging simulation. This project evaluates quality parameters like tartaric acid, pH value, and firmness to provide real-time "Pickable" or "UnPickable" verdicts.
