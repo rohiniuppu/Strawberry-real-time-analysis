@@ -18,7 +18,7 @@ An AI-powered system for the **non-destructive analysis of strawberries** using 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rohiniuppu/Strawberry-real-time-analysis.git
+  [ git clone https://github.com/rohiniuppu/Strawberry-real-time-analysis.git](https://strawberry-real-time-analysis-jx43pbgancbdf7cgugrgt2.streamlit.app/)
    cd strawberry-ai
    ```
 
