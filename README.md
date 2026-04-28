@@ -1,4 +1,4 @@
-# 🍓 Strawberry AI: Real-Time Quality Analysis Dashboard
+<img width="781" height="697" alt="image" src="https://github.com/user-attachments/assets/7f43f1b6-3224-4af6-8bd9-14341e13531b" /># 🍓 Strawberry AI: Real-Time Quality Analysis Dashboard
 
 An AI-powered system for the **non-destructive analysis of strawberries** using hyperspectral imaging simulation. This project evaluates quality parameters like tartaric acid, pH value, and firmness to provide real-time "Pickable" or "UnPickable" verdicts.
 
@@ -59,6 +59,16 @@ The current model achieves a high classification accuracy on pickable vs. unpick
 | **Recall** | 0.92 |
 
 ## 🖼️ Screenshots
+### Real-Time Dashboard
+![Strawberry Dashboard]
+<img width="1537" height="852" alt="image" src="https://github.com/user-attachments/assets/af887f83-9ef2-4a6e-b94a-c1c91f0618dc" />
+
+### Model Performance
+<img width="777" height="643" alt="image" src="https://github.com/user-attachments/assets/e38e5983-be8e-433c-860b-e44548709217" />
+
+<img width="743" height="713" alt="image" src="https://github.com/user-attachments/assets/3496afb2-911c-4b1b-b4ca-30951ccde125" />
+
+
 
 
 ---
